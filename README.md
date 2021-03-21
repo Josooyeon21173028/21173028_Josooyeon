@@ -16,4 +16,4 @@
 코드 블럭 안
 ```
 * * *
-<img wigdh="" height="" src="./png/KakaoTalk_20210321_222050398.jpg"></img>
+<img wigdh="300" height="300" src="./png/KakaoTalk_20210321_222050398.jpg"></img>
